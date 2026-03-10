@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.png" alt="Salman Khan Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
 
 <h3 align="center">
