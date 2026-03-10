@@ -27,9 +27,9 @@ Full Stack & Blockchain Developer
 
 ## 🌐 Connect With Me
 
-🌍 Portfolio: https://yourportfolio.com  
+🌍 Portfolio: https://salmanraheem-portfolio.vercel.app/  
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
+💼 LinkedIn: https://www.linkedin.com/in/salmanraheem-dev/
 
 🐙 GitHub: https://github.com/salmanraheem-dev  
 
