@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Salman Khan Banner" />
+  <img src="image.png" alt="Salman Khan Banner" width="100%"  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
